@@ -11,13 +11,13 @@ __NOTES:__
 + This is supposed to be fun, if you're not having fun soldering this, you shouldn't.
 
 ## Material list
-1. Board
-2. Display (0.42") ![Display](./images/display.jpg)
-3. U2 (the real name is very long, I'm not pasting it here, but it's the chip-looking thing with 8 pins) ![U2](./images/u2.jpg)
-4. Crystal ![Crystal](./images/crystal.jpg)
-5. Main Cap ![Main Cap](./images/m_cap.jpg)
-6. #6 Touch Pad Resistors ![TP Res](./images/res.jpg)
-7. #4 Display Caps ![Disp Caps](./images/d_cap.jpg)
+1. Board ![Display](./images/board.jpeg)
+2. Display (0.42") ![Display](./images/display.jpeg)
+3. U2 (the real name is very long, I'm not pasting it here, but it's the chip-looking thing with 8 pins) ![U2](./images/u2.jpeg)
+4. Crystal ![Crystal](./images/crystal.jpeg)
+5. Main Cap ![Main Cap](./images/m_cap.jpeg)
+6. #6 Touch Pad Resistors ![TP Res](./images/res.jpeg)
+7. #4 Display Caps ![Disp Caps](./images/d_cap.jpeg)
 8. Headers (there are only 2, 2, and 3 required; you do not need all the header spaces)
 9. 32 AWG Wire (lots of it, I recommend 3 different colours, I used red, yellow, and blue)
 10. __FLUX FLUX FLUX FLUX FLUX FLUX FLUX FLUX FLUX FLUX FLUX FLUX FLUX FLUX FLUX FLUX FLUX FLUX__
